@@ -17,6 +17,3 @@ test:  # test images (optional)
 nc: 1  # number of classes
 names: ['fast baseball']  # class names
 
-
-# Download script/URL (optional)
-# download: https://ultralytics.com/assets/coco128.zip
